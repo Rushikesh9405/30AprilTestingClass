@@ -8,6 +8,8 @@ public class demo1
 		
 		System.out.println("hellow");
 		
+		System.out.println("Good Afternoon");
+		
 	}
 
 }
